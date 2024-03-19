@@ -1,0 +1,9 @@
+var x = 'xyzabc'
+
+[plang python]
+print(x)
+
+y = 123
+[endplang]
+
+print(y)
