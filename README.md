@@ -1,2 +1,2 @@
-# diamondback-examples
+# Diamondback Examples
 A collection of Diamondback examples.
