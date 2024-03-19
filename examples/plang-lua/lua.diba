@@ -1,0 +1,7 @@
+var x = "Hello "
+
+[plang lua]
+local name = "Diamondback"
+
+print(x .. name .. "!")
+[endplang]
